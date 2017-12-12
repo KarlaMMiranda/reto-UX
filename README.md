@@ -48,3 +48,7 @@ Elementos UX:
 ![GitHub Weebsite](images-02/github-web-003.jpg)
 ![GitHub Weebsite](images-02/github-web-004.jpg)
 ![GitHub Weebsite](images-02/github-web-005.jpg)
+
+## RETO SKETCH - DASHBOARD LABORATORIA
+
+![Laboratoria Dashboard](images-03/dashboard.jpg)
